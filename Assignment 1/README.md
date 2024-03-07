@@ -7,4 +7,4 @@ This folder contains all the deliverables for the "Enhanced Dynamic Robot Moveme
 
 
 ## Running Simulation:
-To run the simulation, Google colab or Jupyter Notebook can be used and open the file 'assign1_cse366.ipynb'
+To run the simulation, Google colab or Jupyter Notebook can be used.
