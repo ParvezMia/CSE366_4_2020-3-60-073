@@ -3,7 +3,6 @@ This folder contains all the deliverables for the "Enhanced Dynamic Robot Moveme
 
 ## Files:
 - 'assign1_cse366.ipynb': The Jupyter Notebook with the simulation implementation.
-- 'assign1_project_report.pdf': A detailed report of the project.
 
 
 ## Running Simulation:
