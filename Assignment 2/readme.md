@@ -1,4 +1,11 @@
 # Assignment 2 Report
+Lab Assignment 2 - Genetic Algorithm - Robot Resource Optimization<br>
+CSE366, Sec:4
+
+Name: Md. Iftekhar Hossain Khan <br>
+ID: 2020-3-60-073 <br>
+Course Instructor: Dr. Mohammad Rifat Ahmmad Rashid (Assistant Professor, CSE) <br>
+East West University <br>
 
 ## Introduction
 The task of this assignment was to implement ***Genetic Algorithm*** to optimize the assignment of multiple robots.
