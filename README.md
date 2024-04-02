@@ -1,8 +1,6 @@
-# CSE366_Assignments
-This repository contains all the assignments submissions of the course CSE366 (Artificial Intelligence)
-
 # Repository Details:
-CSE366 (Artificial Intelligence) <br>
+## CSE366_4_Assignments
+This repository contains all the assignments submissions of the course CSE366 (Artificial Intelligence) <br>
 Spring 2024 <br>
 Sec: 04
 
