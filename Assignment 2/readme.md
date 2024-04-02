@@ -51,7 +51,8 @@ where σ is the standard deviation. <br>
 - ***Visualization:*** For visualizing the best solution with tasks duration and priorities annotations for each cell in a grid representation robots and tasks.
 
 ## Results
-***Generation cycle was set to 100*** and each time the simulation was tested within this range where the GA successfully optimized tasks, minimizing total production time while ensuring workload balance and task prioritization. Each time the best solution was found in the **XXth** generation.
+***Generation cycle was set to 100*** and each time the simulation was tested within this range where the GA successfully optimized tasks, minimizing total production time while ensuring workload balance and task prioritization. Each time the best solution was found in the **XXth** generation. <br>
+[<img src="screenshot/GA_robot.png />]
 
 ## Conclusion
 It can be observed and concluded that the GA proved to be effective in optimizing robot tasks. It efficiently handled allocating tasks to robots, minimized production time, balanced workload and prioritized critical tasks.
