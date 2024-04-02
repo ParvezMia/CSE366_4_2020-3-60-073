@@ -48,7 +48,7 @@ where σ is the standard deviation. <br>
 ## Implementation
 - ***Mock Data Generation:*** Generates random mock data of tasks including duration, priorities and robot efficiencies
 - ***Genetic Algorithm Implementation:*** All the necessary functions were added here in this class ***(OptimizeRobotResource_GA)*** including population generation, fitness function calculation, crossover, mutation, and running simulation
-- ***Visualization:*** For visualizing the best solution with tasks duration and priorities annotations for each cell in a grid representation robots and tasks.
+- ***Visualization:*** For visualizing the best solution with tasks duration and priorities, each cell was annoted in a grid representation robots and tasks.
 
 ## Results
 ***Generation cycle was set to 100*** and each time the simulation was tested within this range where the GA successfully optimized tasks, minimizing total production time while ensuring workload balance and task prioritization. Each time the best solution was found in the **XXth** generation. <br>
